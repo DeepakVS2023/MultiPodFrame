@@ -8,11 +8,14 @@ Pod::Spec.new do |spec|
   spec.platform     = :ios, "16.2"
 spec.license      = "MIT"
   spec.source       = { :git => "https://github.com/DeepakVS2023/MultiPodFrame.git", :tag => "#{spec.version.to_s}" }
-    spec.source_files  = "Classes/**/*.{swift}"
+    spec.source_files  = "MultiPodFrame/**/*.{swift}"
+    spec.platform     = :ios
+
 spec.dependency "Toast-Swift"
 spec.dependency "Alamofire"
 spec.dependency "IQKeyboardManagerSwift"
 spec.dependency "SwiftyJSON", "~> 4.0"
+ spec.authors            = { "Deepak Agarwal" => "deepak.agarwal@gingerwebs.co.in" }
 
 
   # spec.screenshots  = "www.example.com/screenshots_1.gif", "www.example.com/screenshots_2.gif"
