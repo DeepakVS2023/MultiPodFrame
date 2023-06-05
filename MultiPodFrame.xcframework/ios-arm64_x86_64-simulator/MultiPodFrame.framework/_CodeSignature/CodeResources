@@ -4,13 +4,17 @@
 <dict>
 	<key>files</key>
 	<dict>
+		<key>Assets.car</key>
+		<data>
+		pxtdAkVEulAVl29cgmorCSXHlxo=
+		</data>
 		<key>DemoVC.nib</key>
 		<data>
-		wy83SP5LJw3QjwKJ8NsnE8tJuH0=
+		yjkxg1tLERTezty1y8Wrq/4oWbI=
 		</data>
 		<key>Headers/MultiPodFrame-Swift.h</key>
 		<data>
-		3z/jUfKxET6bprgkB8gLPLirArE=
+		l4JsYa34epi2em6uO995li9fPsw=
 		</data>
 		<key>Headers/MultiPodFrame.h</key>
 		<data>
@@ -22,11 +26,11 @@
 		</data>
 		<key>Modules/MultiPodFrame.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		+VFXjz5QuwKK/lc10uqixJcQhyY=
+		29Hjibb4sUn0fD5V6vOlgDgUS1g=
 		</data>
 		<key>Modules/MultiPodFrame.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		0hOMgmGMDnIFl1LFYqLb6ppXTYo=
+		bEV0XRR4V3zjJTY8o618tladHo8=
 		</data>
 		<key>Modules/MultiPodFrame.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -34,19 +38,19 @@
 		</data>
 		<key>Modules/MultiPodFrame.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		0hOMgmGMDnIFl1LFYqLb6ppXTYo=
+		bEV0XRR4V3zjJTY8o618tladHo8=
 		</data>
 		<key>Modules/MultiPodFrame.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		u6AIs3x9xq4V1yHKDmY4FCUBsr0=
+		JMIm5NrcE1WnTJQea0xQ2Wh9hZ0=
 		</data>
 		<key>Modules/MultiPodFrame.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		+VFXjz5QuwKK/lc10uqixJcQhyY=
+		29Hjibb4sUn0fD5V6vOlgDgUS1g=
 		</data>
 		<key>Modules/MultiPodFrame.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		JpbzUiWpzBLcI/V6aCsBGWJNw3U=
+		5sShNJPB24AFSkQYXK5P6X4qH8k=
 		</data>
 		<key>Modules/MultiPodFrame.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -54,11 +58,11 @@
 		</data>
 		<key>Modules/MultiPodFrame.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		JpbzUiWpzBLcI/V6aCsBGWJNw3U=
+		5sShNJPB24AFSkQYXK5P6X4qH8k=
 		</data>
 		<key>Modules/MultiPodFrame.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		W2karw6m4gE7MjvUE9GXM7TIQ0M=
+		QZL6wZePhTlq5B06OVKobe7C3fU=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -67,18 +71,25 @@
 	</dict>
 	<key>files2</key>
 	<dict>
+		<key>Assets.car</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			E/YdDs11+mBHPXGVhBPkl13zAeFRHCiTDRaV3p4HEy8=
+			</data>
+		</dict>
 		<key>DemoVC.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			UMdxuMBPPSrbtQ9j75XtsO8MNlzVeHxVe4PQKD+kk2o=
+			R36dHeDw5H5rXTK2DsKmW34sV1gxg7ezm/eaogj957Y=
 			</data>
 		</dict>
 		<key>Headers/MultiPodFrame-Swift.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			UlhNN8POwz2ELMjegFPkZcARCjm8GLewLlISbQ/yzMU=
+			DT4cIUVh2XwmD52oPcHBEi9t3uIeCwsa8XKM8+mOzBc=
 			</data>
 		</dict>
 		<key>Headers/MultiPodFrame.h</key>
@@ -92,14 +103,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Wa9bLuhZ8Z9p4ZECaW0alzyY64bZWQHAChxT+q/9M/I=
+			O7L3qGpVjBHc2EDBBNlFNboXfa3020pj5nMbU9rlEck=
 			</data>
 		</dict>
 		<key>Modules/MultiPodFrame.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			yJgavgBkDaC2RAWmyICiaDoKcFrF+iDV+WuClsi/0Dk=
+			2uJW6iPcg0oM8+9CzhindTqb6s51a5GS2sYUttt5LuQ=
 			</data>
 		</dict>
 		<key>Modules/MultiPodFrame.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
@@ -113,28 +124,28 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			yJgavgBkDaC2RAWmyICiaDoKcFrF+iDV+WuClsi/0Dk=
+			2uJW6iPcg0oM8+9CzhindTqb6s51a5GS2sYUttt5LuQ=
 			</data>
 		</dict>
 		<key>Modules/MultiPodFrame.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			i+hmPNvDsTQtKoODzMJdXvHTsRVi2qNNfi8/ct69O0k=
+			Sv3uqkp7K9KXY5SydKx+pxrrncHjUr9iQFxoBR9PnXk=
 			</data>
 		</dict>
 		<key>Modules/MultiPodFrame.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Wa9bLuhZ8Z9p4ZECaW0alzyY64bZWQHAChxT+q/9M/I=
+			O7L3qGpVjBHc2EDBBNlFNboXfa3020pj5nMbU9rlEck=
 			</data>
 		</dict>
 		<key>Modules/MultiPodFrame.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			MbF4HQdj7WFYrj1jxi9byE22PezJuq1s+FJbg4DYzFo=
+			xAPzIK44I5MU/JBj59DJrs9NFEAwsLpkP8OZ/jks17s=
 			</data>
 		</dict>
 		<key>Modules/MultiPodFrame.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
@@ -148,14 +159,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			MbF4HQdj7WFYrj1jxi9byE22PezJuq1s+FJbg4DYzFo=
+			xAPzIK44I5MU/JBj59DJrs9NFEAwsLpkP8OZ/jks17s=
 			</data>
 		</dict>
 		<key>Modules/MultiPodFrame.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			uFKh6iSGXUyR09t0qRzy5Ph7FMP2zX+l9nnmvCajyGI=
+			4GQ94sWLX5APlnYa8fc8M2seV62vwch1omlBW2Nw0KY=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
