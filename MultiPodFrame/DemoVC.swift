@@ -10,12 +10,15 @@ import Toast_Swift
 
 class DemoVC: UIViewController {
 
+    @IBOutlet weak var imageView: UIImageView!
     @IBOutlet weak var textField: UITextField!
     
     override func viewDidLoad() {
         super.viewDidLoad()
 
         // Do any additional setup after loading the view.
+        
+        imageView.image = UIImage(named: "abc")
     }
 
     @IBAction func ToastButtonAction(_ sender: UIButton) {

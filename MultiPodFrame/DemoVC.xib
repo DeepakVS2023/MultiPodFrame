@@ -10,6 +10,7 @@
     <objects>
         <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner" customClass="DemoVC" customModule="MultiPodFrame" customModuleProvider="target">
             <connections>
+                <outlet property="imageView" destination="ojz-aH-LhS" id="LvT-19-IbL"/>
                 <outlet property="textField" destination="CFc-0w-fG5" id="bmk-yu-grY"/>
                 <outlet property="view" destination="i5M-Pr-FkT" id="sfx-zR-JGt"/>
             </connections>
@@ -37,11 +38,20 @@
                     <fontDescription key="fontDescription" type="system" pointSize="14"/>
                     <textInputTraits key="textInputTraits"/>
                 </textField>
+                <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="leaner_teacher" translatesAutoresizingMaskIntoConstraints="NO" id="ojz-aH-LhS">
+                    <rect key="frame" x="96.666666666666686" y="99" width="200" height="200"/>
+                    <constraints>
+                        <constraint firstAttribute="height" constant="200" id="D6c-mR-G28"/>
+                        <constraint firstAttribute="width" constant="200" id="QCs-xO-JhP"/>
+                    </constraints>
+                </imageView>
             </subviews>
             <viewLayoutGuide key="safeArea" id="fnl-2z-Ty3"/>
             <color key="backgroundColor" systemColor="systemOrangeColor"/>
             <constraints>
+                <constraint firstItem="ojz-aH-LhS" firstAttribute="centerX" secondItem="i5M-Pr-FkT" secondAttribute="centerX" id="0Bx-gD-v6L"/>
                 <constraint firstItem="I2i-I2-xSE" firstAttribute="top" secondItem="CFc-0w-fG5" secondAttribute="bottom" constant="30" id="6Zj-pu-wu3"/>
+                <constraint firstItem="ojz-aH-LhS" firstAttribute="top" secondItem="fnl-2z-Ty3" secondAttribute="top" constant="40" id="RVb-yI-d8y"/>
                 <constraint firstItem="fnl-2z-Ty3" firstAttribute="trailing" secondItem="I2i-I2-xSE" secondAttribute="trailing" constant="40" id="asP-xT-ONr"/>
                 <constraint firstItem="fnl-2z-Ty3" firstAttribute="trailing" secondItem="CFc-0w-fG5" secondAttribute="trailing" constant="25" id="fQO-Vk-huv"/>
                 <constraint firstItem="CFc-0w-fG5" firstAttribute="leading" secondItem="fnl-2z-Ty3" secondAttribute="leading" constant="25" id="hH1-eB-Ish"/>
@@ -52,6 +62,7 @@
         </view>
     </objects>
     <resources>
+        <image name="leaner_teacher" width="71" height="81"/>
         <systemColor name="systemOrangeColor">
             <color red="1" green="0.58431372549019611" blue="0.0" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
         </systemColor>
