@@ -1,0 +1,11 @@
+framework module MultiPodFrame {
+  umbrella header "MultiPodFrame.h"
+
+  export *
+  module * { export * }
+}
+
+module MultiPodFrame.Swift {
+  header "MultiPodFrame-Swift.h"
+  requires objc
+}
