@@ -255,6 +255,14 @@ using UInt = size_t;
 @class NSBundle;
 @class NSCoder;
 
+SWIFT_CLASS("_TtC13MultiPodFrame7Demo1VC")
+@interface Demo1VC : UIViewController
+- (void)viewDidLoad;
+- (nonnull instancetype)initWithNibName:(NSString * _Nullable)nibNameOrNil bundle:(NSBundle * _Nullable)nibBundleOrNil OBJC_DESIGNATED_INITIALIZER;
+- (nullable instancetype)initWithCoder:(NSCoder * _Nonnull)coder OBJC_DESIGNATED_INITIALIZER;
+@end
+
+
 SWIFT_CLASS("_TtC13MultiPodFrame6DemoVC")
 @interface DemoVC : UIViewController
 - (void)viewDidLoad;

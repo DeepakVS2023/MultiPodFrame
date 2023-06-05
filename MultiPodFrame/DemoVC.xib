@@ -62,7 +62,7 @@
         </view>
     </objects>
     <resources>
-        <image name="leaner_teacher" width="71" height="81"/>
+        <image name="leaner_teacher" width="70.333335876464844" height="81"/>
         <systemColor name="systemOrangeColor">
             <color red="1" green="0.58431372549019611" blue="0.0" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
         </systemColor>

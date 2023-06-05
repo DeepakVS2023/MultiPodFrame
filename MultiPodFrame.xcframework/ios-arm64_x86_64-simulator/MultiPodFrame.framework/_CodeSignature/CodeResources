@@ -8,13 +8,25 @@
 		<data>
 		pxtdAkVEulAVl29cgmorCSXHlxo=
 		</data>
+		<key>Demo.storyboardc/Demo1VC.nib</key>
+		<data>
+		T1DiQdiCBn4TKkUgXUjZxGY/S0M=
+		</data>
+		<key>Demo.storyboardc/Info.plist</key>
+		<data>
+		2dT9QfsbYYWV7/0bR/JnetYA6+g=
+		</data>
+		<key>Demo.storyboardc/Y6W-OH-hqX-view-5EZ-qb-Rvc.nib</key>
+		<data>
+		tTvNtiHj0U2sjAUKYsQlR2uCUKk=
+		</data>
 		<key>DemoVC.nib</key>
 		<data>
 		yjkxg1tLERTezty1y8Wrq/4oWbI=
 		</data>
 		<key>Headers/MultiPodFrame-Swift.h</key>
 		<data>
-		l4JsYa34epi2em6uO995li9fPsw=
+		nXZEKhdjLTROGUJtYLVIh2qiUVk=
 		</data>
 		<key>Headers/MultiPodFrame.h</key>
 		<data>
@@ -26,11 +38,11 @@
 		</data>
 		<key>Modules/MultiPodFrame.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		29Hjibb4sUn0fD5V6vOlgDgUS1g=
+		Q8d3aCm1rsaevKKijS5C/q5kIKI=
 		</data>
 		<key>Modules/MultiPodFrame.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		bEV0XRR4V3zjJTY8o618tladHo8=
+		ORe3Kh/fv9ECgGypBezvLABu1FU=
 		</data>
 		<key>Modules/MultiPodFrame.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -38,19 +50,19 @@
 		</data>
 		<key>Modules/MultiPodFrame.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		bEV0XRR4V3zjJTY8o618tladHo8=
+		ORe3Kh/fv9ECgGypBezvLABu1FU=
 		</data>
 		<key>Modules/MultiPodFrame.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		JMIm5NrcE1WnTJQea0xQ2Wh9hZ0=
+		vIvmZfnl3uwHASnGVybFNXp+Wgw=
 		</data>
 		<key>Modules/MultiPodFrame.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		29Hjibb4sUn0fD5V6vOlgDgUS1g=
+		Q8d3aCm1rsaevKKijS5C/q5kIKI=
 		</data>
 		<key>Modules/MultiPodFrame.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		5sShNJPB24AFSkQYXK5P6X4qH8k=
+		ZINOeazuWZnADHyrddxHi2gZ0JI=
 		</data>
 		<key>Modules/MultiPodFrame.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -58,11 +70,11 @@
 		</data>
 		<key>Modules/MultiPodFrame.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		5sShNJPB24AFSkQYXK5P6X4qH8k=
+		ZINOeazuWZnADHyrddxHi2gZ0JI=
 		</data>
 		<key>Modules/MultiPodFrame.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		QZL6wZePhTlq5B06OVKobe7C3fU=
+		QyMs1zWpVqE6iCgXsBuNewiywzY=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -78,6 +90,27 @@
 			E/YdDs11+mBHPXGVhBPkl13zAeFRHCiTDRaV3p4HEy8=
 			</data>
 		</dict>
+		<key>Demo.storyboardc/Demo1VC.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			+gCOQwB1lHJquDaKcAkBJxRq12dbHxsL0eM02ocKPjk=
+			</data>
+		</dict>
+		<key>Demo.storyboardc/Info.plist</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			KHgWtTWw5yizjKgPxZEwXsCUKGQKeDLyUsYej+avNIw=
+			</data>
+		</dict>
+		<key>Demo.storyboardc/Y6W-OH-hqX-view-5EZ-qb-Rvc.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			vvid4NQME9zPiylHyKUW3LibVHjvY9BkFhJNpxfFAQ4=
+			</data>
+		</dict>
 		<key>DemoVC.nib</key>
 		<dict>
 			<key>hash2</key>
@@ -89,7 +122,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			DT4cIUVh2XwmD52oPcHBEi9t3uIeCwsa8XKM8+mOzBc=
+			/ulBcKwBcl6M3d58RkroOmqqJsb86IbevvEG84EgDkM=
 			</data>
 		</dict>
 		<key>Headers/MultiPodFrame.h</key>
@@ -103,14 +136,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			O7L3qGpVjBHc2EDBBNlFNboXfa3020pj5nMbU9rlEck=
+			Nv6ZbPMuIkcA3KLheQylhaAUDmFdht6J2WduYs5eoVI=
 			</data>
 		</dict>
 		<key>Modules/MultiPodFrame.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			2uJW6iPcg0oM8+9CzhindTqb6s51a5GS2sYUttt5LuQ=
+			WgclamUAZOeh395lJtF3oOeyoauQClaYi/45qusJZIQ=
 			</data>
 		</dict>
 		<key>Modules/MultiPodFrame.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
@@ -124,28 +157,28 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			2uJW6iPcg0oM8+9CzhindTqb6s51a5GS2sYUttt5LuQ=
+			WgclamUAZOeh395lJtF3oOeyoauQClaYi/45qusJZIQ=
 			</data>
 		</dict>
 		<key>Modules/MultiPodFrame.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Sv3uqkp7K9KXY5SydKx+pxrrncHjUr9iQFxoBR9PnXk=
+			P4pkFUVusMToglO64D5uHwc8zp2jM88pDJ9UvSCEofo=
 			</data>
 		</dict>
 		<key>Modules/MultiPodFrame.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			O7L3qGpVjBHc2EDBBNlFNboXfa3020pj5nMbU9rlEck=
+			Nv6ZbPMuIkcA3KLheQylhaAUDmFdht6J2WduYs5eoVI=
 			</data>
 		</dict>
 		<key>Modules/MultiPodFrame.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			xAPzIK44I5MU/JBj59DJrs9NFEAwsLpkP8OZ/jks17s=
+			Wi4rlm9tcBU/qvTEh70i/wZDfjNfb2BBUvpv9LOjSm0=
 			</data>
 		</dict>
 		<key>Modules/MultiPodFrame.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
@@ -159,14 +192,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			xAPzIK44I5MU/JBj59DJrs9NFEAwsLpkP8OZ/jks17s=
+			Wi4rlm9tcBU/qvTEh70i/wZDfjNfb2BBUvpv9LOjSm0=
 			</data>
 		</dict>
 		<key>Modules/MultiPodFrame.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			4GQ94sWLX5APlnYa8fc8M2seV62vwch1omlBW2Nw0KY=
+			KawFmtznOFpIYlFYx8oQocA2RVCit2oifq74F/1m6wU=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

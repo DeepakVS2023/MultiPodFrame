@@ -12,6 +12,8 @@
 		FA4BF2D02A2DB3750023BA5D /* MultiPodFrame.h in Headers */ = {isa = PBXBuildFile; fileRef = FA4BF2CF2A2DB3750023BA5D /* MultiPodFrame.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		FA4BF2D82A2DB3DC0023BA5D /* DemoVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA4BF2D62A2DB3DC0023BA5D /* DemoVC.swift */; };
 		FA4BF2D92A2DB3DC0023BA5D /* DemoVC.xib in Resources */ = {isa = PBXBuildFile; fileRef = FA4BF2D72A2DB3DC0023BA5D /* DemoVC.xib */; };
+		FAAFB82A2A2DCCE3001C9441 /* Demo1VC.swift in Sources */ = {isa = PBXBuildFile; fileRef = FAAFB8292A2DCCE3001C9441 /* Demo1VC.swift */; };
+		FAAFB82C2A2DCD2F001C9441 /* Demo.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FAAFB82B2A2DCD2F001C9441 /* Demo.storyboard */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -23,6 +25,8 @@
 		FA4BF2CF2A2DB3750023BA5D /* MultiPodFrame.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = MultiPodFrame.h; sourceTree = "<group>"; };
 		FA4BF2D62A2DB3DC0023BA5D /* DemoVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DemoVC.swift; sourceTree = "<group>"; };
 		FA4BF2D72A2DB3DC0023BA5D /* DemoVC.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = DemoVC.xib; sourceTree = "<group>"; };
+		FAAFB8292A2DCCE3001C9441 /* Demo1VC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Demo1VC.swift; sourceTree = "<group>"; };
+		FAAFB82B2A2DCD2F001C9441 /* Demo.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = Demo.storyboard; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -76,8 +80,10 @@
 			isa = PBXGroup;
 			children = (
 				FA4BF2CF2A2DB3750023BA5D /* MultiPodFrame.h */,
+				FAAFB8292A2DCCE3001C9441 /* Demo1VC.swift */,
 				FA4BF2D62A2DB3DC0023BA5D /* DemoVC.swift */,
 				FA4BF2D72A2DB3DC0023BA5D /* DemoVC.xib */,
+				FAAFB82B2A2DCD2F001C9441 /* Demo.storyboard */,
 				FA269FD52A2DBD9700F49037 /* Media.xcassets */,
 			);
 			path = MultiPodFrame;
@@ -156,6 +162,7 @@
 			files = (
 				FA269FD62A2DBD9700F49037 /* Media.xcassets in Resources */,
 				FA4BF2D92A2DB3DC0023BA5D /* DemoVC.xib in Resources */,
+				FAAFB82C2A2DCD2F001C9441 /* Demo.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -192,6 +199,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				FA4BF2D82A2DB3DC0023BA5D /* DemoVC.swift in Sources */,
+				FAAFB82A2A2DCCE3001C9441 /* Demo1VC.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
